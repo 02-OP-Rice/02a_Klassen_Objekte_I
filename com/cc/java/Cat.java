@@ -4,7 +4,7 @@ public class Cat {
 
 
    public void sayHi(){
-        System.out.println("Hi!");
+        System.out.println("Blick von innen: " + this);
 }
 
 
